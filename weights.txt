@@ -1,0 +1,3 @@
+download the file yolov4 weights file from https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
+or any other source which is nearly 200+ mb in size.
+And store the file in the same directory where the video-detection.py file is stored.
